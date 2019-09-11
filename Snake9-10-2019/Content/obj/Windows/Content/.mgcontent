@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/wailinn.saw/Documents/Visual Studio 2019/Projects/Snake9-10-2019/Snake9-10-2019/Content/bubbles-32-greyout_10.png</File>
+    <File>Z:/wailinn.saw/Documents/Visual Studio 2019/Projects/Snake9-10-2019/Snake9-10-2019/Content/bubbles-32-greyout_62.png</File>
+    <File>Z:/wailinn.saw/Documents/Visual Studio 2019/Projects/Snake9-10-2019/Snake9-10-2019/Content/bubbles-32-greyout_69.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Food.png</File>
+    <File>Body.png</File>
+    <File>Head.png</File>
+  </DestFiles>
+</SourceFileCollection>
